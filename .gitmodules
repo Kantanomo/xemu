@@ -60,7 +60,7 @@
 	url = https://gitlab.com/qemu-project/qboot.git
 [submodule "meson"]
 	path = meson
-	url = https://gitlab.com/qemu-project/meson.git
+	url = https://github.com/mesonbuild/meson
 [submodule "roms/vbootrom"]
 	path = roms/vbootrom
 	url = https://gitlab.com/qemu-project/vbootrom.git
